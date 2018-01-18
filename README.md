@@ -9,4 +9,4 @@ www.metaboanalyst.ca
 ### 2nd tool (under development):
 1.chemrich.us 
 
-this tool in under development, and the URL will change when the final project got release. 
+this tool in under development, and the URL will change when we finally release this out.
